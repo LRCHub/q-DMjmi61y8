@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "One Last Kiss",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2025-12-03T14:48:53.779407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/01_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/02_One_Last_Kiss_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_One_Last_Kiss_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/04_One_Last_Kiss_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "The J. Geils Band",
+      "has_synced": true,
+      "path": "select/05_One_Last_Kiss_The_J._Geils_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "J. Geils Band",
+      "has_synced": true,
+      "path": "select/06_One_Last_Kiss_J._Geils_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "J. Geils Band",
+      "has_synced": true,
+      "path": "select/07_One_Last_Kiss_J._Geils_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Last Kiss",
+      "artist": "Bobby Vee",
+      "has_synced": false,
+      "path": "select/08_One_Last_Kiss_Bobby_Vee.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "Pink",
+      "has_synced": true,
+      "path": "select/09_Blow_Me_(One_Last_Kiss)_Pink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/10_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss) [Explicit Radio Edit]",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/11_Blow_Me_(One_Last_Kiss)_[Explicit_Radio_Edit]_P!nk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/12_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss) [Radio Edit]",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/13_Blow_Me_(One_Last_Kiss)_[Radio_Edit]_P!nk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss) (Squeaky Clean Edit) (2012)",
+      "artist": "Pink",
+      "has_synced": false,
+      "path": "select/14_Blow_Me_(One_Last_Kiss)_(Squeaky_Clean_Edit)_(2012)_Pink.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/15_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss) (clean)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/16_Blow_Me_(One_Last_Kiss)_(clean)_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/17_Blow_Me_(One_Last_Kiss)_P!nk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Last Kiss",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_One_Last_Kiss_宇多田_ヒカル.txt"
+    }
+  ]
+}
